@@ -49,6 +49,7 @@ Version Control	Git & GitHub
 Documentation	Microsoft Word
 
 ## Project Workflow
+```text
 Raw Dataset
       ↓
 Data Cleaning (SQL)
@@ -60,6 +61,7 @@ Business Insights
 Power BI Dashboard
       ↓
 Business Recommendations
+```
 
 ## Data Cleaning
 
