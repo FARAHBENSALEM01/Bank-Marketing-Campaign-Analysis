@@ -147,14 +147,14 @@ The exploratory data analysis was organized into six thematic SQL scripts.
 
 # Business Recommendations
 
-| Recommendation | Expected Benefit |
-|---------------|------------------|
-| Prioritize retirees, older customers and students | Higher subscription rates |
-| Make cellular the primary communication channel | Improved campaign performance |
-| Focus on the first few customer contacts | Reduced marketing costs |
-| Use previous campaign history for customer targeting | More accurate customer segmentation |
-| Optimize campaign timing | Higher marketing efficiency |
-| Monitor macroeconomic conditions during campaign planning | Better decision making |
+Based on the analysis, the following actions can help improve the effectiveness of future telemarketing campaigns:
+
+- Prioritize **retirees, older customers (60+), and students**, as these customer segments consistently achieved the highest subscription rates.
+- Make **cellular** the primary communication channel, as it substantially outperformed telephone contacts.
+- Maximize the effectiveness of the **first few customer contacts**, since subscription rates decline with repeated contact attempts.
+- Leverage **previous campaign history** to identify customers with a higher likelihood of subscribing.
+- Optimize **campaign timing** by focusing on historically stronger-performing periods.
+- Consider **macroeconomic conditions**, particularly interest rates and labor market conditions, when planning future campaigns.
 
 ---
 
