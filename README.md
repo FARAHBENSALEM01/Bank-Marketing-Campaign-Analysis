@@ -10,11 +10,11 @@ A SQL and Power BI project analyzing a Portuguese bank's telemarketing campaigns
 
 ## Interactive Dashboard
 
-🔗 Power BI Service:
-https://app.powerbi.com/links/NVe49A3P-m?ctid=b5b5d8fb-3a53-425c-924d-8eaff50e1945&pbi_source=linkShare
-📥 Download the dashboard:
+🔗 **View Interactive Dashboard (Power BI Service)**  
+[Open Dashboard](https://app.powerbi.com/links/NVe49A3P-m?ctid=b5b5d8fb-3a53-425c-924d-8eaff50e1945&pbi_source=linkShare)
 
-https://github.com/FARAHBENSALEM01/Bank-Marketing-Campaign-Analysis/blob/main/bank%20marketing%20Dashboard.pbix
+📥 **Download Power BI File**  
+[Bank Marketing Dashboard (.pbix)](bank%20marketing%20Dashboard.pbix)
 
 ## Business Problem
 
