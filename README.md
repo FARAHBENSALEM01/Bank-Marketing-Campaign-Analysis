@@ -72,9 +72,8 @@ Missing value assessment
 Category standardization
 Feature preparation for analysis
 
-📄 SQL Script:
-
-sql/01_data_cleaning.sql
+📄 **SQL Script:**  
+[01_data_cleaning.sql](sql/01_data_cleaning.sql)
 
 ## Exploratory Data Analysis
 
@@ -89,7 +88,7 @@ Multidimensional Analysis
 
 📄 SQL Script:
 
-sql/02_exploratory_data_analysis.sql
+[02_exploratory_data_analysis.sql](sql/02_exploratory_data_analysis.sql)
 
 ## Project Results
 Analysis Area	Key Finding
