@@ -14,8 +14,7 @@ A SQL and Power BI project analyzing a Portuguese bank's telemarketing campaigns
 [Open Dashboard](https://app.powerbi.com/links/NVe49A3P-m?ctid=b5b5d8fb-3a53-425c-924d-8eaff50e1945&pbi_source=linkShare)
 
 📥 **Download Power BI File**  
-[Bank Marketing Dashboard (.pbix)](bank%20marketing%20Dashboard.pbix)
-
+[Bank Marketing Dashboard.pbix](powerbi/Bank%20Marketing%20Dashboard.pbix)
 ## Business Problem
 
 Despite contacting more than 41,000 customers, the bank achieved a relatively low subscription rate for its term deposit campaign. Understanding which customer segments and campaign practices drive successful subscriptions is essential for improving future telemarketing performance.
