@@ -76,18 +76,16 @@ Feature preparation for analysis
 
 ## Exploratory Data Analysis
 
-The analysis focused on six business dimensions:
+The exploratory data analysis was organized into six thematic SQL scripts:
 
-Campaign Performance
-Customer Segmentation
-Financial Profile
-Campaign Strategy
-Macroeconomic Indicators
-Multidimensional Analysis
-
-📄 SQL Script:
-
-[02_exploratory_data_analysis.sql](sql/02_exploratory_data_analysis.sql)
+| Analysis Area | SQL Script |
+|--------------|------------|
+| Campaign Performance | [02_Campaign_performance.sql](sql/02_Campaign_performance.sql) |
+| Customer Segmentation | [03_Customer_segmentation.sql](sql/03_Customer_segmentation.sql) |
+| Financial Profile | [04_Financial_status.sql](sql/04_Financial_status.sql) |
+| Campaign Strategy | [05_Campaign_strategy.sql](sql/05_Campaign_strategy.sql) |
+| Macroeconomic Indicators | [06_Macroeconomic_indicators.sql](sql/06_Macroeconomic_indicators.sql) |
+| Multidimensional Analysis | [07_multidimensional_analysis.sql](sql/07_multidimensional_analysis.sql) |
 
 ## Project Results
 Analysis Area	Key Finding
