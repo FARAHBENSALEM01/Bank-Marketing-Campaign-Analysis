@@ -125,19 +125,19 @@ The objective of this phase was to improve data quality, standardize formats, an
 
 Cleaning Activities
 
-✔ Removed duplicate records
+Removed duplicate records
 
-✔ Standardized column names
+Standardized column names
 
-✔ Corrected inconsistent categorical values
+Corrected inconsistent categorical values
 
-✔ Converted data types
+Converted data types
 
-✔ Validated missing values
+Validated missing values
 
-✔ Verified target variable consistency
+Verified target variable consistency
 
-✔ Created derived variables for analysis
+Created derived variables for analysis
 
 Examples include:
 
