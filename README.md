@@ -4,8 +4,8 @@ A SQL and Power BI project analyzing a Portuguese bank's telemarketing campaigns
 
 ## Dashboard
 <p align="center">
-  <img src="dashboard_page_1.png" width="48%">
-  <img src="dashboard_page_2.png" width="48%">
+  <img src="images/dashboard_page_1.png" width="48%">
+  <img src="images/dashboard_page_2.png" width="48%">
 </p>
 
 ## Interactive Dashboard
