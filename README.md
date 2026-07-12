@@ -147,9 +147,8 @@ Bank-Marketing-Campaign-Analysis/
 ```
 ## Future Improvements
 Develop predictive models to estimate customer subscription probability.
-Compare the performance of classification algorithms such as Logistic Regression, Random Forest, and XGBoost.
+Compare the performance of classification algorithms such as Logistic Regression, Random Forest.
 Build an interactive forecasting dashboard.
-Automate the data preparation workflow.
 
 ## Author
 
