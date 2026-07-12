@@ -148,5 +148,7 @@ Build an interactive forecasting dashboard.
 
 Farah Bensalem
 
-## GitHub: https://github.com/FARAHBENSALEM01
-## LinkedIn: https://www.linkedin.com/in/farah-bensalem/
+## GitHub: 
+https://github.com/FARAHBENSALEM01
+## LinkedIn: 
+https://www.linkedin.com/in/farah-bensalem/
