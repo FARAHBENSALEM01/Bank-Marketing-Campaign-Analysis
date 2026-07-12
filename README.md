@@ -72,7 +72,7 @@ Category standardization
 Feature preparation for analysis
 
 📄 **SQL Script:**  
-[01_data_cleaning.sql](sql/01_data_cleaning.sql)
+[01_Data_Cleaning.sql](sql/01_Data_Cleaning.sql)
 
 ## Exploratory Data Analysis
 
