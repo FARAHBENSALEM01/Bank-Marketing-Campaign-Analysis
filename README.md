@@ -14,6 +14,7 @@ A SQL and Power BI project analyzing a Portuguese bank's telemarketing campaigns
 [Open Dashboard](https://app.powerbi.com/links/NVe49A3P-m?ctid=b5b5d8fb-3a53-425c-924d-8eaff50e1945&pbi_source=linkShare)
 
 📥 **Download Power BI File**  
+
 [Bank Marketing Dashboard.pbix](powerbi/Bank%20Marketing%20Dashboard.pbix)
 ## Business Problem
 
@@ -37,9 +38,9 @@ Which customer characteristics, financial profile attributes, campaign strategie
 | Target Variable |        Term Deposit Subscription |
 | URL             |https://archive.ics.uci.edu/dataset/222/bank+marketing|
 
-https://archive.ics.uci.edu/dataset/222/bank+marketing
 
 ## Tools & Technologies
+
 Category	Tool
 Database	SQL Server
 Query Language	SQL (T-SQL)
