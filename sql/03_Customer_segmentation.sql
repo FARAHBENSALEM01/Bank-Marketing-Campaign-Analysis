@@ -13,10 +13,10 @@ WITH age_segmentation AS
 (
     SELECT
         CASE
-            WHEN age BETWEEN 17 AND 29 THEN '17–29'
-            WHEN age BETWEEN 30 AND 39 THEN '30–39'
-            WHEN age BETWEEN 40 AND 49 THEN '40–49'
-            WHEN age BETWEEN 50 AND 59 THEN '50–59'
+            WHEN age BETWEEN 17 AND 29 THEN '17â€“29'
+            WHEN age BETWEEN 30 AND 39 THEN '30â€“39'
+            WHEN age BETWEEN 40 AND 49 THEN '40â€“49'
+            WHEN age BETWEEN 50 AND 59 THEN '50â€“59'
             ELSE '60+'
         END AS age_group,
         term_deposit_subscription
@@ -37,10 +37,10 @@ FROM age_segmentation
 GROUP BY age_group
 ORDER BY
     CASE age_group
-        WHEN '17–29' THEN 1
-        WHEN '30–39' THEN 2
-        WHEN '40–49' THEN 3
-        WHEN '50–59' THEN 4
+        WHEN '17â€“29' THEN 1
+        WHEN '30â€“39' THEN 2
+        WHEN '40â€“49' THEN 3
+        WHEN '50â€“59' THEN 4
         WHEN '60+' THEN 5
     END;
 
