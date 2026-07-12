@@ -35,8 +35,7 @@ Which customer characteristics, financial profile attributes, campaign strategie
 | Records         |                           41,188 |
 | Variables       |                               21 |
 | Target Variable |        Term Deposit Subscription |
-| URL             |(https://archive.ics.uci.edu/dataset/222/bank+marketing
-)|
+| URL             |(https://archive.ics.uci.edu/dataset/222/bank+marketing)|
 
 https://archive.ics.uci.edu/dataset/222/bank+marketing
 
