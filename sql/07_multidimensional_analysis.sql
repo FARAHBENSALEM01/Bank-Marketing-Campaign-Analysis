@@ -1,21 +1,21 @@
 /*==============================================================================
-6 — Multidimensional Analysis
+6 â€” Multidimensional Analysis
 
 ==============================================================================*/
 
 
 /*------------------------------------------------------------------------------
-Customer Profile Analysis (Age Group × Occupation)
+Customer Profile Analysis (Age Group Ã— Occupation)
 ------------------------------------------------------------------------------*/
 
 WITH age_segmentation AS
 (
     SELECT
         CASE
-            WHEN age BETWEEN 17 AND 29 THEN '17–29'
-            WHEN age BETWEEN 30 AND 39 THEN '30–39'
-            WHEN age BETWEEN 40 AND 49 THEN '40–49'
-            WHEN age BETWEEN 50 AND 59 THEN '50–59'
+            WHEN age BETWEEN 17 AND 29 THEN '17â€“29'
+            WHEN age BETWEEN 30 AND 39 THEN '30â€“39'
+            WHEN age BETWEEN 40 AND 49 THEN '40â€“49'
+            WHEN age BETWEEN 50 AND 59 THEN '50â€“59'
             ELSE '60+'
         END AS age_group,
         job AS customer_occupation,
@@ -45,7 +45,7 @@ ORDER BY
 
 
 /*------------------------------------------------------------------------------
-Campaign Strategy Analysis (Contact Method × Number of Contacts)
+Campaign Strategy Analysis (Contact Method Ã— Number of Contacts)
 ------------------------------------------------------------------------------*/
 
 SELECT
@@ -71,17 +71,17 @@ ORDER BY
 
 /*------------------------------------------------------------------------------
 Customer Segmentation by Campaign History
-(Age Group × Contact Method × Previous Campaign Outcome)
+(Age Group Ã— Contact Method Ã— Previous Campaign Outcome)
 ------------------------------------------------------------------------------*/
 
 WITH age_segmentation AS
 (
     SELECT
         CASE
-            WHEN age BETWEEN 17 AND 29 THEN '17–29'
-            WHEN age BETWEEN 30 AND 39 THEN '30–39'
-            WHEN age BETWEEN 40 AND 49 THEN '40–49'
-            WHEN age BETWEEN 50 AND 59 THEN '50–59'
+            WHEN age BETWEEN 17 AND 29 THEN '17â€“29'
+            WHEN age BETWEEN 30 AND 39 THEN '30â€“39'
+            WHEN age BETWEEN 40 AND 49 THEN '40â€“49'
+            WHEN age BETWEEN 50 AND 59 THEN '50â€“59'
             ELSE '60+'
         END AS age_group,
         contact,
