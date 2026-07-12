@@ -131,8 +131,6 @@ Bank-Marketing-Campaign-Analysis/
 │
 ├── powerbi/
 │   └── Bank Marketing Dashboard.pbix
-│
-├── images/
 │   ├── dashboard_page_1.png
 │   └── dashboard_page_2.png
 │
