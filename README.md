@@ -192,8 +192,6 @@ Bank-Marketing-Campaign-Analysis/
 ├── images/
 │   ├── dashboard_page_1.png
 │   └── dashboard_page_2.png
-│
-├── reports/
 │   └── Executive Summary.pdf
 │
 └── README.md
