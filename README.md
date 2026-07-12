@@ -8,8 +8,7 @@ Dashboard
 Interactive Dashboard
 
 🔗 Power BI Service:
-https://app.powerbi.com/links/2lnT0iBxVF?ctid=b5b5d8fb-3a53-425c-924d-8eaff50e1945&pbi_source=linkShare
-
+https://app.powerbi.com/links/NVe49A3P-m?ctid=b5b5d8fb-3a53-425c-924d-8eaff50e1945&pbi_source=linkShare
 📥 Download the dashboard:
 
 powerbi/Bank Marketing Dashboard.pbix
@@ -113,26 +112,26 @@ A concise business report summarizing the project methodology, key findings, and
 
 Repository Structure
 Bank-Marketing-Campaign-Analysis/
-│
-├── data/
-│   ├── bank-additional-full.csv
-│   └── bank_marketing_clean.csv
-│
-├── sql/
-│   ├── 02_data_cleaning.sql
-│   └── 03_exploratory_data_analysis.sql
-│
-├── powerbi/
-│   └── Bank Marketing Dashboard.pbix
-│
-├── images/
-│   ├── dashboard_page_1.png
-│   └── dashboard_page_2.png
-│
-├── reports/
-│   └── Executive Summary.pdf
-│
-└── README.md
+
+data/
+bank-additional-full.csv
+bank_marketing_clean.csv
+
+sql/
+02_data_cleaning.sql
+03_exploratory_data_analysis.sql
+
+powerbi/
+Bank Marketing Dashboard.pbix
+
+images/
+dashboard_page_1.png
+dashboard_page_2.png
+
+reports/
+Executive Summary.pdf
+
+ README.md
 Future Improvements
 Develop predictive models to estimate customer subscription probability.
 Compare the performance of classification algorithms such as Logistic Regression, Random Forest, and XGBoost.
