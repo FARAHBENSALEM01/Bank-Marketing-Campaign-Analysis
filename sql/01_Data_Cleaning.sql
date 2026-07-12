@@ -348,10 +348,10 @@ ORDER BY y;
 /*
 Validation Summary
 
-• No spelling inconsistencies detected.
-• No leading or trailing spaces identified.
-• Category values are internally consistent.
-• Placeholder value 'unknown' is retained as a valid category.
+Â• No spelling inconsistencies detected.
+Â• No leading or trailing spaces identified.
+Â• Category values are internally consistent.
+Â• Placeholder value 'unknown' is retained as a valid category.
 */
 
 /*=========================================================
@@ -449,10 +449,10 @@ WHERE row_num = 1;
 /*
 Cleaning Summary
 
-• Duplicate records removed.
-• Integer variables converted from FLOAT to INT.
-• Special characters removed from column names.
-• Clean dataset created for downstream analysis.
+Â• Duplicate records removed.
+Â• Integer variables converted from FLOAT to INT.
+Â• Special characters removed from column names.
+Â• Clean dataset created for downstream analysis.
 */
 
 
