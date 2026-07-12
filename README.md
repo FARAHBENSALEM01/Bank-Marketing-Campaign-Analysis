@@ -25,20 +25,18 @@ A SQL and Power BI project analyzing a Portuguese bank's telemarketing campaigns
 
 # Business Problem
 
-Despite contacting more than **41,000 customers**, the bank achieved a relatively low subscription rate for its term deposit campaign. Understanding which customer segments and campaign practices drive successful subscriptions is essential for improving future telemarketing performance.
+The bank invested substantial resources in telemarketing campaigns but achieved a relatively low term deposit subscription rate (11.27%). Without understanding which customers are most likely to subscribe and which campaign practices are most effective, marketing resources may be allocated inefficiently, resulting in unnecessary costs and missed sales opportunities.
 
 ---
 
 # Business Objective
 
-Identify the customer characteristics, **financial profile**, campaign practices, and macroeconomic conditions most strongly associated with successful term deposit subscriptions, and translate these findings into actionable recommendations for improving future telemarketing campaigns.
-
+Identify the customer characteristics, financial profile, campaign practices, and macroeconomic conditions associated with successful term deposit subscriptions, and translate these findings into actionable recommendations for improving future telemarketing campaigns.
 ---
 
 # Business Question
 
-Which customer characteristics, financial profile attributes, campaign strategies, and economic conditions are associated with higher subscription rates, and how can these insights improve the effectiveness of future telemarketing campaigns?
-
+How can the bank improve its telemarketing campaign by identifying the customer segments, campaign strategies, and economic conditions associated with higher term deposit subscription rates?
 ---
 
 # Project Scope
