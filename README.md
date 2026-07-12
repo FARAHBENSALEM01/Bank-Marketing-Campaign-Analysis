@@ -11,7 +11,7 @@ Interactive Dashboard
 https://app.powerbi.com/links/NVe49A3P-m?ctid=b5b5d8fb-3a53-425c-924d-8eaff50e1945&pbi_source=linkShare
 📥 Download the dashboard:
 
-powerbi/Bank Marketing Dashboard.pbix
+[Bank Marketing Dashboard.pbix](powerbi/Bank%20Marketing%20Dashboard.pbix)
 
 Business Problem
 
