@@ -1,6 +1,6 @@
 # Improving Term Deposit Conversion: A Data-Driven Telemarketing Strategy for a Retail Bank
 
-A retail bank spent significant telemarketing budget contacting customers about term deposits—but only **11 out of every 100 calls converted**. This project investigates who the bank should be calling, through which channel, and under what conditions, so the marketing team can direct limited outreach capacity toward the customers most likely to subscribe.
+A retail bank spent significant telemarketing budget contacting customers about term deposits but only **11 out of every 100 calls converted**. This project investigates who the bank should be calling, through which channel, and under what conditions, so the marketing team can direct limited outreach capacity toward the customers most likely to subscribe.
 
 Acting as an analytics consultant to the bank's marketing team, I used **SQL Server** to clean and analyze **41,188 customer contact records** and **Power BI** to build a decision-support dashboard for campaign planning.
 
