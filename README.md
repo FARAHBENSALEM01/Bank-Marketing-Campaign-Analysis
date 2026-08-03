@@ -12,7 +12,7 @@ The bank invested substantial resources in telemarketing campaigns but achieved 
 
 # Business Objective
 
-Acting as an analytics consultant to the bank's marketing team, this project identifies which customer segments, contact strategies, and market conditions are associated with successful term deposit conversions—and translates those patterns into practical targeting and channel recommendations for future campaigns.
+This project identifies which customer segments, contact strategies, and market conditions are associated with successful term deposit conversions and translates those patterns into practical targeting and channel recommendations for future campaigns.
 
 # Business Questions
 
