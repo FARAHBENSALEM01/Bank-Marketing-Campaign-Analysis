@@ -93,12 +93,17 @@ Across all **41,188** customer contacts, the overall subscription rate was **11.
 
 # Business Recommendations
 
-1. Prioritize previous campaign responders before applying demographic filters.
-2. Focus outreach on customers aged **60+** and retirees.
-3. Make cellular contact the default communication channel.
-4. Limit repeated contact attempts and redirect effort toward new prospects.
-5. Remove housing and personal loan ownership from targeting rules.
-6. Monitor interest-rate conditions as an early planning signal while collecting additional evidence.
+1. Prioritise previous campaign responders before applying demographic filters, subject to verifying their current eligibility.
+
+2. Focus targeted outreach on customers aged 60+ and retirees, while monitoring their subscription volumes and conversion rates.
+
+3. Prioritise cellular contact based on its stronger historical conversion rate, and validate this advantage through further testing.
+
+4. Set limits on repeated contact attempts and assess whether redirecting resources towards new prospects improves campaign performance.
+
+5. Exclude housing and personal loan ownership as primary targeting criteria, given their limited differences in observed conversion rates.
+
+6. Monitor interest-rate conditions as a potential campaign-planning signal while gathering further evidence of their relationship with subscription behaviour.
 
 ---
 
